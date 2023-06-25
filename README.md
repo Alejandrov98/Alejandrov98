@@ -5,17 +5,21 @@
 </div>  
   
 
-### <div align="center">I'm Alejandro Villamayor, a full-time full-stack web developer 👨‍💻 </div>  
+### <div align="center">I'm Alejandro Villamayor, a full-stack web developer ||  desarrollador web full-stack || un développeur web full-stack   👨‍💻 </div>  
   
 
 - 🔭 I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects
+  
 - 🔭 Actualmente estoy trabajando en el mejor proyecto en el que cualquiera puede trabajar, yo mismo jaja pero también trabajo en otros proyectos autónomos
+  
 - 🔭 Je travaille actuellement sur le meilleur projet sur lequel tout le monde peut travailler, moi haha mais je travaille aussi sur d'autres projets autonomes
   
 
-- 🌱 I am currently learning Java, python and Spring
-- 🌱 Actualmente estoy aprendiendo Java, Python y Spring
-- 🌱 J'apprends actuellement Java, python et Spring
+- 🌱 I'm currently learning Java, Python, Spring and also Italian.
+  
+- 🌱 Actualmente estoy aprendiendo Java, Python, s´pring y tambien italiano. 
+  
+- 🌱 J'apprends actuellement Java, Python, Spring et aussi l'italien.
 
 <br/>  
 
