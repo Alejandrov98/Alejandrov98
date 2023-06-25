@@ -9,14 +9,18 @@
   
 
 - 🔭 I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects
+- 🔭 Actualmente estoy trabajando en el mejor proyecto en el que cualquiera puede trabajar, yo mismo jaja pero también trabajo en otros proyectos autónomos
+- 🔭 Je travaille actuellement sur le meilleur projet sur lequel tout le monde peut travailler, moi haha mais je travaille aussi sur d'autres projets autonomes
   
 
 - 🌱 I am currently learning Java, python and Spring
+- 🌱 Actualmente estoy aprendiendo Java, Python y Spring
+- 🌱 J'apprends actuellement Java, python et Spring
 
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set || Mi conjunto de habilidades || Mon ensemble de compétences
 <table><tr><td valign="top" width="33%">
 
 
@@ -62,7 +66,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me  || Conectate conmigo || Connectez-vous avec moi
 <div align="center">
 <a href="https://github.com/Alejandrov98" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
