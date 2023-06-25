@@ -8,25 +8,12 @@
 ### <div align="center">I'm Alejandro Villamayor, a full-stack web developer ||  desarrollador web full-stack || un développeur web full-stack   👨‍💻 </div>  
   
 
--⠀⠀⠀⠀⢀⡀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⡠⠞⠋⠀⠈⠳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢀⡞⠁⠀⠀⠀⠀⠈⠳⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⡞⠁⠀⠀⠀⠀⠀⠀⠀⠙⡄⠀⠀⠀⠀⠀⠀⠀
-⢠⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡆⠀⠀⠀⠀⠀⠀
-⢸⠀⠀⣀⡀⠤⠤⠴⠶⠶⢄⡇⠀⠀⠀⠀⠀⠀⠀
-⠈⠳⡀⠘⠿⠷⠶⠖⠚⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠈⠑⠤⠤⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠳⠄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳
- I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects. I'm currently learning Java, Python, Spring, and also Italian.
-
-- :flag-fr: Je travaille actuellement sur le meilleur projet sur lequel tout le monde peut travailler, moi haha mais je travaille aussi sur d'autres projets autonomes. J'apprends actuellement Java, Python, Spring et aussi l'italien.
 
 - :flag-gb: I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects. I'm currently learning Java, Python, Spring, and also Italian.
+
+- :argentina: Actualmente estoy trabajando en el mejor proyecto en el que cualquiera puede trabajar, yo mismo jaja pero también trabajo en otros proyectos autónomos. Actualmente estoy aprendiendo Java, Python, Spring y también italiano.
+
+- :flag-fr: Je travaille actuellement sur le meilleur projet sur lequel tout le monde peut travailler, moi haha mais je travaille aussi sur d'autres projets autonomes. J'apprends actuellement Java, Python, Spring et aussi l'italien.
 
 
 
