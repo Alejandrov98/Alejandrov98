@@ -8,7 +8,21 @@
 ### <div align="center">I'm Alejandro Villamayor, a full-stack web developer ||  desarrollador web full-stack || un développeur web full-stack   👨‍💻 </div>  
   
 
-- :flag-ar: I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects. I'm currently learning Java, Python, Spring, and also Italian.
+-⠀⠀⠀⠀⢀⡀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⡠⠞⠋⠀⠈⠳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢀⡞⠁⠀⠀⠀⠀⠈⠳⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡞⠁⠀⠀⠀⠀⠀⠀⠀⠙⡄⠀⠀⠀⠀⠀⠀⠀
+⢠⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡆⠀⠀⠀⠀⠀⠀
+⢸⠀⠀⣀⡀⠤⠤⠴⠶⠶⢄⡇⠀⠀⠀⠀⠀⠀⠀
+⠈⠳⡀⠘⠿⠷⠶⠖⠚⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠑⠤⠤⠤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠳⠄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳
+ I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects. I'm currently learning Java, Python, Spring, and also Italian.
 
 - :flag-fr: Je travaille actuellement sur le meilleur projet sur lequel tout le monde peut travailler, moi haha mais je travaille aussi sur d'autres projets autonomes. J'apprends actuellement Java, Python, Spring et aussi l'italien.
 
