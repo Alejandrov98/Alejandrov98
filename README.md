@@ -36,7 +36,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
  <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jquery-icon.png" alt="JQuery" height="50" /></a>
- <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://laravel.com/img/logotype.min.svg" alt="Laravel" height="50" /></a>
+ <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="Laravel" height="50" /></a>
  
 </div>
 
