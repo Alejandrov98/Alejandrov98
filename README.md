@@ -11,11 +11,11 @@
   
 
 
-💂 I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects. I'm learning Java, Python, Spring, and also Italian.
+💂 I'm currently working on the best project that anyone can work on, myself haha but I also work on other autonomous projects. I'm learning C#, .NET and also Italian.
 
-🧉 Actualmente estoy trabajando en el mejor proyecto en el que cualquiera puede trabajar, yo mismo jaja pero también trabajo en otros proyectos autónomos. Estoy aprendiendo Java, Python, Spring y también italiano.
+🧉 Actualmente estoy trabajando en el mejor proyecto en el que cualquiera puede trabajar, yo mismo jaja pero también trabajo en otros proyectos autónomos. Estoy aprendiendo C#, .NET y también italiano.
 
-🥐 Je travaille actuellement sur le meilleur projet sur lequel tout le monde peut travailler, moi haha mais je travaille aussi sur d'autres projets autonomes. J'apprends actuellement Java, Python, Spring et aussi l'italien.
+🥐 Je travaille actuellement sur le meilleur projet sur lequel tout le monde peut travailler, moi haha mais je travaille aussi sur d'autres projets autonomes. J'apprends actuellement C#, .NET et aussi l'italien.
 
 
 
